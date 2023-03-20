@@ -1,0 +1,12 @@
+a = int(10)
+b = int(2)
+resulta = str(a)
+resultb = str(b)
+add = a + b
+subtract = a - b
+multiply = a * b
+divide = a / b
+print(resulta, "+", resultb, "=", add)
+print(resulta, "-", resultb, "=", subtract)
+print(resulta, "*", resultb, "=", multiply)
+print(resulta, "/", resultb, "=", int(divide))
