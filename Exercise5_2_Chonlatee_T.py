@@ -5,7 +5,7 @@ t >= 1
 if v >=1 and t >= 1:
     print(int(v / t), "km/h")
 else:
-    print("Error !")
+    print("Error!")
 
 
 
